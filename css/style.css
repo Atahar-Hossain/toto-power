@@ -2,6 +2,10 @@
 * {
 	font-family: "Roboto", sans-serif;
 }
-.navbar-expand-lg .navbar-collapse{
-    justify-content: flex-end;
+.navbar-expand-lg .navbar-collapse {
+	justify-content: flex-end;
+}
+
+.dropdown-item {
+	margin: 15px 10px;
 }
